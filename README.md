@@ -23,6 +23,7 @@
 ## 🔗 My Profiles:
   - GameJolt - [Profile](https://gamejolt.com/@SkipperFox) | [Games](https://gamejolt.com/@SkipperFox/games)
   - Facebook - [Profile](https://www.facebook.com/profile.php?id=100005886931485)
+  - LinkedIn - [Profile](https://www.linkedin.com/in/paweł-frąckowiak-1a8019277/)
   - SoundCloud - coming soon
 
 ## My stats:
