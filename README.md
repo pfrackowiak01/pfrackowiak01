@@ -4,26 +4,28 @@
   <!-- Linkedin -->
   <!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
   
 
 ## 🔭 I’m currently working on:
-  - big game project (deck-builder roguelike) in Unity for my engineering degree
+  - Big game project (deck-builder roguelike) in Unity for my engineering degree
+  - Board game and card game for college
+  - Online application for first-year students (group project of 11 people - I am in the frontend development team)
 
 ## 🌱 I’m currently learning:
-  - [Spring Boot](https://spring.io/projects/spring-boot/)
-  - Game Development Basics:
-    - [Unity](https://unity.com/)
-    - [PyGame](https://www.pygame.org/wiki/GettingStarted)
-    - [Godot Engine](https://godotengine.org/)
+  - [Unity 2D/3D](https://unity.com/)
+
+
+## 🎮 My games:
+  - Doodle Jump (C++) [Github](https://github.com/pfrackowiak01/Doodle_Jump_Game) [GameJolt](https://gamejolt.com/games/doodlejump/807497)
+  - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) [PDF-PL](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
+  - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
 
 ## My stats:
 
