@@ -1,4 +1,4 @@
-### Hello, Adam here! 👋
+### Hello, Paweł here! 👋
 
 <!--## 🤝 Contact me:-->
   <!-- Linkedin -->
@@ -16,7 +16,7 @@
   
 
 ## 🔭 I’m currently working on:
-  - Challenge Maker to The Binding of Isaac: Repentance
+  - big game project (deck-builder roguelike) in Unity for my engineering degree
 
 ## 🌱 I’m currently learning:
   - [Spring Boot](https://spring.io/projects/spring-boot/)
