@@ -10,15 +10,20 @@
   - Game Design (from books)
   - TailWind CSS
 
-## 🎮 My Games: [GameJolt - Games](https://gamejolt.com/@SkipperFox/games)
+## 🎮 My Games:
   - Doodle Jump (C++) [Github](https://github.com/pfrackowiak01/Doodle_Jump_Game) | [GameJolt](https://gamejolt.com/games/doodlejump/807497)
-  - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) | [PDF-PL](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
+  - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) | [PDF(Polish)](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
   - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) | [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
 
-## 🤝 Contact me:
+## 🤝 Contact Me:
   - E-mail - pawel.frackowiak302@gmail.com
   - Discord - @skipperfox
   - Messenger - [FB_profile](https://www.facebook.com/profile.php?id=100005886931485)
+
+## 🔗 My Profiles:
+  - GameJolt - [Profile](https://gamejolt.com/@SkipperFox) | [Games](https://gamejolt.com/@SkipperFox/games)
+  - Facebook - [Profile](https://www.facebook.com/profile.php?id=100005886931485)
+  - SoundCloud - coming soon
 
 ## My stats:
 
