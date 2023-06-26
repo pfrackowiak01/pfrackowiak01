@@ -9,6 +9,7 @@
   - Unity 2D/3D
   - Game Design (from books)
   - TailWind CSS
+  - React
 
 ## 🎮 My Games:
   - Doodle Jump (C++) [Github](https://github.com/pfrackowiak01/Doodle_Jump_Game) | [GameJolt](https://gamejolt.com/games/doodlejump/807497)
