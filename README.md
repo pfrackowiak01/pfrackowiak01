@@ -16,7 +16,7 @@
   - Doodle Jump (C++) [Github](https://github.com/pfrackowiak01/Doodle_Jump_Game) | [GameJolt](https://gamejolt.com/games/doodlejump/807497)
   - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) | [PDF(Polish)](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
   - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) | [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
-  - Forgotten Whispers - (C\# - Unity 2D) (deck-builder roguelike) (coming soon)
+  - Forgotten Whispers - (C\# - Unity 2D) (deck-builder roguelike) [Github](https://github.com/pfrackowiak01/Forgotten_Whispers_Game) (coming soon)
 
 ## 🤝 Contact Me:
   - E-mail - pawel.frackowiak302@gmail.com
