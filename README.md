@@ -1,5 +1,7 @@
 ### Hello, Paweł here! 👋 
 
+Student of Computer Science at the [Maritime University](https://umg.edu.pl) 👨‍🎓
+
 ## 🔭 I’m currently working on:
   - Big game project (deck-builder roguelike) in Unity for my engineering degree
   - Real board game and card game for my college
