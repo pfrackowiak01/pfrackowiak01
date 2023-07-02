@@ -1,19 +1,27 @@
 ### Hello, Paweł here! 👋 
 
-This year I have already reached level 22 👾 and I am a Student of Computer Science at the [Maritime University](https://umg.edu.pl) 👨‍🎓
+## 🙋‍♂️ About Me:
 
-Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
+- Level 22 👾
+- Student of Computer Science at the [Gdynia Maritime University](https://umg.edu.pl) 👨‍🎓
+- Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
+
+---
 
 ## 🔭 I’m currently working on:
   - Big game project (deck-builder roguelike) in Unity for my engineering degree
   - Real board game and card game for my college
   - Online application for first-year students (group project of 11 people - I am in the frontend development team)
 
+---
+
 ## 🌱 I’m currently learning:
   - Unity 2D/3D
   - Game Design (from books)
   - TailWind CSS
   - React
+
+---
 
 ## 🎮 My Games:
   - Summoners Battle (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Summoners_Battle_Game)
@@ -22,16 +30,22 @@ Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
   - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) | [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
   - Forgotten Whispers - (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Forgotten_Whispers_Game) Work In Progress... | GameJolt coming soon...
 
+---
+
 ## 🤝 Contact Me:
   - E-mail - pawel.frackowiak302@gmail.com
   - Discord - @skipperfox
   - Messenger - [FB_profile](https://www.facebook.com/profile.php?id=100005886931485)
+
+---
 
 ## 🔗 My Profiles:
   - GameJolt - [Profile](https://gamejolt.com/@SkipperFox) | [Games](https://gamejolt.com/@SkipperFox/games)
   - Facebook - [Profile](https://www.facebook.com/profile.php?id=100005886931485)
   - LinkedIn - [Profile](https://www.linkedin.com/in/paweł-frąckowiak-1a8019277/)
   - SoundCloud - coming soon...
+
+---
 
 ## 📊 My Stats:
 
