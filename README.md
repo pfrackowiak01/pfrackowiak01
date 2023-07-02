@@ -1,6 +1,4 @@
-### Hello, Paweł here! 👋 
-
-## 🙋‍♂️ About Me:
+## 👋 Hello, I'm Paweł! 
 
 - Level 22 👾
 - Student of Computer Science at the [Gdynia Maritime University](https://umg.edu.pl) 👨‍🎓
