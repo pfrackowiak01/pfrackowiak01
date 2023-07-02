@@ -1,6 +1,6 @@
 ### Hello, Paweł here! 👋 
 
-Student of Computer Science at the [Maritime University](https://umg.edu.pl) 👨‍🎓
+This year I have already reached level 22 👾 and I am a Student of Computer Science at the [Maritime University](https://umg.edu.pl) 👨‍🎓
 
 Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
 
