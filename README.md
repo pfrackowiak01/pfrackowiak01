@@ -2,6 +2,8 @@
 
 Student of Computer Science at the [Maritime University](https://umg.edu.pl) 👨‍🎓
 
+Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
+
 ## 🔭 I’m currently working on:
   - Big game project (deck-builder roguelike) in Unity for my engineering degree
   - Real board game and card game for my college
@@ -15,7 +17,7 @@ Student of Computer Science at the [Maritime University](https://umg.edu.pl) �
 
 ## 🎮 My Games:
   - Summoners Battle (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Summoners_Battle_Game)
-  - Doodle Jump (C++) [Github](https://github.com/pfrackowiak01/Doodle_Jump_Game) | [GameJolt](https://gamejolt.com/games/doodlejump/807497)
+  - Doodle Jump (C++ - Visual Studio) [Github](https://github.com/pfrackowiak01/Doodle_Jump_Game) | [GameJolt](https://gamejolt.com/games/doodlejump/807497)
   - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) | [PDF(Polish)](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
   - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) | [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
   - Forgotten Whispers - (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Forgotten_Whispers_Game) Work In Progress... | GameJolt coming soon...
