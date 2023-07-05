@@ -7,7 +7,8 @@
 ---
 
 ## 🔭 I’m currently working on:
-  - Big game project (deck-builder roguelike) in Unity for my engineering degree
+  - Big mobile game project (endless runner) for my internship in Boombit/TapNice
+  - Big mobile game project (deck-builder roguelike) in Unity for my engineering degree
   - Real board game and card game for my college
   - Online application for first-year students (group project of 11 people - I am in the frontend development team)
 
@@ -27,6 +28,7 @@
   - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) | [PDF(Polish)](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
   - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) | [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
   - Forgotten Whispers - (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Forgotten_Whispers_Game) Work In Progress... | GameJolt coming soon...
+  - Turbo Dash - (C\# - Unity 3D) [Github](https://github.com/pfrackowiak01/Turbo_Dash_Game) | GameJolt coming soon...
 
 ---
 
