@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Paweł! 
 
 - Level 22 👾
-- Student of Computer Science at the [Gdynia Maritime University](https://umg.edu.pl) 👨‍🎓
+- Student of Computer Science at the [Maritime University in Gdynia](https://umg.edu.pl) 👨‍🎓
 - Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
 
 ---
