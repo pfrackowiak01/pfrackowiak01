@@ -10,7 +10,7 @@
   - Big mobile game project (endless runner) in Unity for my internship in Boombit/TapNice
   - Big mobile game project (deck-builder roguelike) in Unity for my engineering degree
   - Real board game and card game for my college
-  - Online application for first-year students (group project of 11 people - I am in the frontend development team)
+  - Online application for first-year students (group project of 11 people - I am in the frontend development team) https://github.com/magdadobek/AIIM1Project
 
 ---
 
