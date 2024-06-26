@@ -1,16 +1,16 @@
 ## 👋 Hello, I'm Paweł!
 
 - Level 23 👾
-- Student of Computer Science at the [Maritime University in Gdynia](https://umg.edu.pl) 👨‍🎓
+- I am a graduate of Computer Science from the [Maritime University in Gdynia](https://umg.edu.pl) 👨‍🎓
 - Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
+- With a keen interest in also pursuing a career as a PHP Web Developer 🕸🌏
 
 ---
 
 ## 🔭 I’m currently working on:
-  - Big mobile game project (endless runner) in Unity for my internship in Boombit/TapNice
   - Big mobile game project (deck-builder roguelike) in Unity for my engineering degree
   - Real board game and card game for my college
-  - Online application for first-year students (group project of 11 people - I am in the frontend development team) https://github.com/magdadobek/AIIM1Project
+  - Business Website 
 
 ---
 
@@ -33,9 +33,9 @@
 ---
 
 ## 📁 My other Projects:
-- All Projects from Studies - [Github](https://github.com/pfrackowiak01/Studies/blob/main/README.md)
-- Online application for first-year students (group project of 11 people - I am in the frontend development team) - [Github](https://github.com/magdadobek/AIIM1Project)
-- Website "Car Rental" - PHP project - [Github Project](https://github.com/pfrackowiak01/wypozyczalnia_samochodow) | [Github More Info](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/README.md) | [Website](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/)
+  - All Projects from Studies - [Github](https://github.com/pfrackowiak01/Studies/blob/main/README.md)
+  - Online application for first-year students (group project of 11 people - I am in the frontend development team) - [Github](https://github.com/magdadobek/AIIM1Project)
+  - Website "Car Rental" - PHP project - [Github Project](https://github.com/pfrackowiak01/wypozyczalnia_samochodow) | [Github More Info](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/README.md) | [Website](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/)
 
 ---
 
