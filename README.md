@@ -33,11 +33,11 @@
 ---
 
 ## 📁 My other Projects:
-  - All Projects from Studies - [Github](https://github.com/pfrackowiak01/Studies/blob/main/README.md)
+  - All Projects from Studies - [Github](https://github.com/pfrackowiak01/Studies)
   - Online application for first-year students (group project of 11 people - I am in the frontend development team) - [Github](https://github.com/magdadobek/AIIM1Project)
   - Website "Car Rental" - PHP project - [Github Project](https://github.com/pfrackowiak01/wypozyczalnia_samochodow) | [Website](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/) | [Documentation](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/PSI_ZALICZENIE_PROJEKT/Projekt%20%2B%20Uwagi%20-%20PSI%20-%20Paweł%20Frąckowiak%20-%20Wypożyczalnia%20samochodów.pdf)
   - Website "Car Rental" - Java project - [Github Project](https://github.com/pfrackowiak01/wyporzyczalnia-samochodow-JAVA-Spring)
-  - Other PHP Websites - [Github](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/README.md)
+  - Other PHP Websites - [Github](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem))
 
 ---
 
