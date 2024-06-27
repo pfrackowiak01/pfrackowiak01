@@ -36,6 +36,7 @@
   - All Projects from Studies - [Github](https://github.com/pfrackowiak01/Studies/blob/main/README.md)
   - Online application for first-year students (group project of 11 people - I am in the frontend development team) - [Github](https://github.com/magdadobek/AIIM1Project)
   - Website "Car Rental" - PHP project - [Github Project](https://github.com/pfrackowiak01/wypozyczalnia_samochodow) | [Github More Info](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/README.md) | [Website](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/)
+  - Other PHP Websites - [Github](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/README.md)
 
 ---
 
