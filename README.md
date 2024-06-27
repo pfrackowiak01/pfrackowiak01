@@ -28,7 +28,7 @@
   - Student Simulator (Java - Android Studio) [Github](https://github.com/pfrackowiak01/Student_Simulator) | [PDF(Polish)](https://github.com/pfrackowiak01/Student_Simulator/blob/main/Opis_Aplikacji_Pawel_Frackowiak.pdf)
   - Flappy Parrot (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Flappy_Parrot_Game) | [GameJolt](https://gamejolt.com/games/flappyparrot/817512)
   - Forgotten Whispers - (C\# - Unity 2D) [Github](https://github.com/pfrackowiak01/Forgotten_Whispers_Game) Work In Progress... | GameJolt coming soon...
-  - Turbo Dash - (C\# - Unity 3D) [Github](https://github.com/pfrackowiak01/Turbo_Dash) | [GameJolt](https://gamejolt.com/games/turbodash/829803)
+  - Turbo Dash - (C\# - Unity 3D) [Github](https://github.com/pfrackowiak01/Turbo_Dash_Game) | [GameJolt](https://gamejolt.com/games/turbodash/829803)
 
 ---
 
