@@ -8,7 +8,7 @@
 ---
 
 ## 🔭 I’m currently working on:
-  - Big mobile game project (deck-builder roguelike) in Unity for my engineering degree
+  - Big mobile game project (deck-builder roguelike) in Unity
   - Real board game and card game for my college
   - Business Website 
 
