@@ -1,9 +1,10 @@
 ## 👋 Hello, I'm Paweł!
 
-- Level 23 👾
+- Level 24 👾
 - I am a graduate of Computer Science from the [Maritime University in Gdynia](https://umg.edu.pl) 👨‍🎓
+- I am studying of Computer Science in the [University in Gdańsk](https://ug.edu.pl) 👨‍🎓
 - Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
-- With a keen interest in also pursuing a career as a PHP Web Developer 🕸🌏
+- With a keen interest in also pursuing a career as a PHP Web Developer 🕸 or embedded C/C++ Developer 🌏
 
 ---
 
@@ -15,6 +16,7 @@
 ---
 
 ## 🌱 I’m currently learning:
+  - Embedded C/C++
   - Unity 2D/3D
   - Game Design (from books)
   - TailWind CSS
