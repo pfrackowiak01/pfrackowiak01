@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Paweł!
 
-- Level 24 👾
+- Level 25 👾
 - I am a graduate of Computer Science from the [Maritime University in Gdynia](https://umg.edu.pl) 👨‍🎓
 - I am studying of Computer Science in the [University in Gdańsk](https://ug.edu.pl) 👨‍🎓
 - Inspired to become a future Game Developer 👨‍💻 or Game Designer 📝📊
